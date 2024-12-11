@@ -1,8 +1,9 @@
 # Personal Portfolio 🔥
-> https://rajaprerak.github.io/
+> https://imprincekumar.netlify.app/
 
-:star: Star me on GitHub — it helps!
-
+:star: Star me on GitHub — it helps! <br>
+This portfolio showcases some of my best work, including web applications, coding projects, and design work. <br>
+Feel free to explore and connect with me for any collaborations, feedback, or opportunities!
 ### Website Preview
 #### Home Page
 <img src="website_images/HomePage.gif" width="900">
