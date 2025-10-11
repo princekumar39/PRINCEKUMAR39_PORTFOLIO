@@ -135,6 +135,22 @@ h1, h2, h3, h4, h5, h6 {
   }
 }
 
+/* Motivation container styling */
+#motivation-container {
+    position: relative; /* ensures it’s not hidden behind fixed header */
+    z-index: 1;
+    margin-top: 80px;   /* adjust based on your header height */
+    text-align: center;
+    background: #1a1a1a;
+    padding: 15px 20px;
+    border-radius: 10px;
+    font-size: 18px;
+    color: #12D640;
+    font-weight: 500;
+}
+
+
+
 /*--------------------------------------------------------------
 # Navigation Menu
 --------------------------------------------------------------*/
